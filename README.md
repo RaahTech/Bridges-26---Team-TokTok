@@ -20,7 +20,7 @@ information for other patient who may not be able to let them know in that situa
 ## PNG Total populations
  - with NID
  - Without NID
-# Problems causing delay and issue if NID
+# Problems causing delay and issue of NID
 - Geography.
 - culatures.
 - Funds.
